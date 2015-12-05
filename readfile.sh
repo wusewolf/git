@@ -12,3 +12,4 @@ fi
 echo "no eof line"
 
 echo "line---2"
+echo "2 line"
