@@ -10,3 +10,5 @@ else
     done < ./$0 
 fi
 echo "no eof line"
+
+echo "2 line"
