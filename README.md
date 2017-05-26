@@ -1,5 +1,5 @@
 # git
-##how to use git
+## how to use git
 
 
 1.pro git  
